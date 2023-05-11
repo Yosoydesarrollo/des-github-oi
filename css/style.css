@@ -105,7 +105,7 @@ header nav {
 }
 
 header nav a {
-    color: rgb(4, 3, 14);
+    color: rgb(248, 247, 253);
     text-decoration: none;
     margin-left: 10px;
     font-weight: bold;
@@ -113,7 +113,7 @@ header nav a {
 }
 
 header nav a:hover {
-    color: #ecddec;
+    color: #141014;
     text-decoration: underline;
     font-weight: bold;
 }
@@ -259,11 +259,8 @@ h2
 
 .container {
     background-color: #251A5D;
-    margin-left: 1px;
     border-radius: 4px;
-    border: solid 3px black;
-    width: 100%;
-    margin-left: 1px;
+    width: 150%;
 }
 
 img {
@@ -286,18 +283,12 @@ p {
     color: white;
 }
 
-br {
-    background-color: #666e91;
-    color: #55125e;
-}
-
 iframe {
     border: solid 3px black;
 }
 
 .box {
     background-color: #6a50fb;
-    border: solid 3px white;
 }
 
 h4 {
@@ -342,4 +333,8 @@ a.btn-wsp {
     border-radius: 15%;
     padding-top: 12px;
     padding-bottom: 12px;
+}
+
+.section {
+    background-color: #183537
 }
