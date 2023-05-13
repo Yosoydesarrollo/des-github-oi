@@ -275,7 +275,7 @@ h2
 
 img {
     margin-left: 90px;
-    border: solid 7px white;
+    border: solid 7px#251A5D;
     border-radius: 33%;
 }
 
@@ -299,10 +299,6 @@ p {
 
 iframe {
     border: solid 3px black;
-}
-
-.box {
-    background-color: #6a50fb;
 }
 
 h4 {
