@@ -370,6 +370,7 @@ a.btn-wsp {
 .sub {
     border-bottom: solid 5px #251A5D;
     border-radius: 4px;
+    background-color: white
 }
 
 p {
@@ -381,5 +382,9 @@ p {
 }
 
 .sub {
+    background-color: #632aa5;
+}
+
+.plubli {
     background-color: #632aa5;
 }
