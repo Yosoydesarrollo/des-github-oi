@@ -1,5 +1,3 @@
-/*declarar constantes de diseño para las 
-fuentes, colores y recursos*/
 
 :root {
     --textos: 'Lato', sans-serif;
@@ -296,8 +294,7 @@ img {
 
 p {
     margin-left: 30%;
-    color: white;
-    background-color: #2B2062;
+    color: black background-color: #2B2062;
     margin-right: 70%;
     text-align: center;
     border-radius: 15%;
@@ -367,7 +364,6 @@ a.btn-wsp {
 .sub {
     border-bottom: solid 5px #251A5D;
     border-radius: 4px;
-    background-color: white
 }
 
 p {
@@ -379,9 +375,5 @@ p {
 }
 
 .sub {
-    background-color: #632aa5;
-}
-
-.plubli {
     background-color: #632aa5;
 }
