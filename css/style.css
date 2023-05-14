@@ -117,6 +117,7 @@ header img {
 header nav {
     float: right;
     margin-top: 10px;
+    margin-right: 50%;
 }
 
 header nav a {
@@ -333,10 +334,6 @@ a.btn-wsp {
 
 .publicidad {
     background-color: #727e83;
-}
-
-.cuerpo {
-    background-image: url("images/background.jpg");
 }
 
 .enlace {
