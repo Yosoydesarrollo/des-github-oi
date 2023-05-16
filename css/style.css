@@ -1,5 +1,5 @@
 
-    /*declarar constantes de diseño para las 
+       /*declarar constantes de diseño para las 
 fuentes, colores y recursos*/
     
      :root {
@@ -18,6 +18,7 @@ fuentes, colores y recursos*/
     }
     
     body {
+        background-image: url("images/conectividad.jpg");
         font-family: var(--textos);
         font-size: 1.2rem;
         /*rem representa 12 px*/
@@ -86,7 +87,7 @@ fuentes, colores y recursos*/
     /*sintaxis para las clases en css es con punto (.)*/
     
     .home-wrapper {
-        background: linear-gradient(rgba(0, 0, 0, 0.678), rgba(0, 0, 0, 0.6)), url('../images/background.jpg') no-repeat center top;
+        background: linear-gradient(rgba(0, 0, 0, 0.678), rgba(0, 0, 0, 0.6)), url('../images/bac4.jpg') no-repeat center top;
         background-size: cover;
         color: #000;
     }
@@ -196,7 +197,7 @@ fuentes, colores y recursos*/
     #home .divider {
         width: 250px;
         margin: 0 auto;
-        border-top: 5px solid #55125e;
+        border-top: 5px solid red;
     }
     
     #home .social {
@@ -258,14 +259,8 @@ fuentes, colores y recursos*/
         margin-top: 10px;
     }
     
-    .container {
-        background-color: #251A5D;
-        border-radius: 4px;
-        width: 150%;
-    }
-    
     #portafolio {
-        background-color: #001B32
+        background-color: #010307
     }
     
     .parrafo {
@@ -372,4 +367,9 @@ fuentes, colores y recursos*/
     
     .what {
         color: #25d366;
+    }
+    
+    #icon {
+        border-radius: 50%;
+        border: solid 3px violet;
     }
