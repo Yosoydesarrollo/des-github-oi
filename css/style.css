@@ -1,4 +1,4 @@
-    /*declarar constantes de diseño para las 
+       /*declarar constantes de diseño para las 
 fuentes, colores y recursos*/
     
      :root {
@@ -259,7 +259,7 @@ fuentes, colores y recursos*/
     }
     
     #portafolio {
-        background-color: #010307
+        background-color: #001F35;
     }
     
     .parrafo {
