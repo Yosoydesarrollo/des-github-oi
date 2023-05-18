@@ -1,5 +1,4 @@
-
-       /*declarar constantes de diseño para las 
+    /*declarar constantes de diseño para las 
 fuentes, colores y recursos*/
     
      :root {
@@ -87,7 +86,7 @@ fuentes, colores y recursos*/
     /*sintaxis para las clases en css es con punto (.)*/
     
     .home-wrapper {
-        background: linear-gradient(rgba(0, 0, 0, 0.678), rgba(0, 0, 0, 0.6)), url('../images/bac4.jpg') no-repeat center top;
+        background: linear-gradient(rgba(0, 0, 0, 0.678), rgba(0, 0, 0, 0.6)), url('../images/bac2.jpg') no-repeat center top;
         background-size: cover;
         color: #000;
     }
