@@ -1,4 +1,4 @@
-       /*declarar constantes de diseño para las 
+         /*declarar constantes de diseño para las 
 fuentes, colores y recursos*/
     
      :root {
@@ -208,10 +208,6 @@ fuentes, colores y recursos*/
     }
     /*secciones*/
     
-    section {
-        padding: 80px;
-    }
-    
     p {
         text-align: justify;
         margin-left: 10%;
@@ -313,7 +309,8 @@ fuentes, colores y recursos*/
     }
     
     .section {
-        background-color: #183537
+        background-color: #183537;
+        margin-left: 1px;
     }
     
     #contacto {
@@ -371,4 +368,10 @@ fuentes, colores y recursos*/
     #icon {
         border-radius: 50%;
         border: solid 3px violet;
+    }
+    
+    .pie {
+        background-color: #024D4D;
+        padding-top: 50px;
+        padding-bottom: 50px;
     }
